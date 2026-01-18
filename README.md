@@ -1,5 +1,4 @@
-```markdown
-# 🇮🇳 Bharat-AR-Odyssey
+# Bharat-AR-Odyssey
 
 **Bharat-AR-Odyssey** is an immersive web application designed to guide users on a virtual journey through India's rich cities, vibrant heritage, and cultural landmarks using Augmented Reality (AR) concepts. The project leverages modern web technologies to deliver interactive experiences and educational content.
 
