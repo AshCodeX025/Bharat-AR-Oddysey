@@ -70,12 +70,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Made with ❤️ for India's heritage and future.  
-```
-
-
-## License
-This project is licensed under the **MIT** License.
+> Made with ❤️ for India's heritage and future.
 
 ---
 🔗 GitHub Repo: https://github.com/AshCodeX025/Bharat-AR-Oddysey
